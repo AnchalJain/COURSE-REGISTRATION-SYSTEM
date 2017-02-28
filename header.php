@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
    		<meta charset="utf-8">
+      <title>RG Academy</title>
     	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
     	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
@@ -57,7 +58,7 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
               <ul class="nav navbar-nav">
-                <li><a href="#">Home</a></li>
+                <li><a href="bs.php">Home</a></li>
                 
                 <li class="dropdown">
                   <a class="dropdown-toggle"data-toggle="dropdown" href="#">About us <span class="caret"> </span> </a>
