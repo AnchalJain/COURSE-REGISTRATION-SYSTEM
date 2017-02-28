@@ -1,0 +1,49 @@
+/*.affix {
+      top: 0;
+      width: 100%;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+*/
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+/*body{
+	position: relative;
+}*/
+
+
+#about{
+	overflow-x:hidden;
+	overflow-y:hidden;
+	overflow:hidden;   
+}
+
+
+#faculty{
+	overflow-x:hidden;
+	overflow-y:hidden;
+	overflow:hidden;  
+}
+
+
+
+h2{
+	word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+    text-align: center;
+}     
