@@ -50,7 +50,7 @@
 				<div class="form-group">
 				
 					<div class="row">
-					<div class="col-xs-5">
+					<div class="col-xs-10 col-md-5">
 					<label for="name" class="col-sm-2 control-label"></label>
 				 		<div class="input-group input-group-lg">
 							<input type="text" class="form-control" id="name" placeholder="First Name" value="">
@@ -60,7 +60,7 @@
 				
 
 				
-					<div class="col-xs-5">
+					<div class="col-xs-10 col-md-5">
 					<label for="name" class="col-sm-2 control-label"></label>
 				 		<div class="input-group input-group-lg">
 							<input type="text" class="form-control" id="name" placeholder="Last Name" value="">
@@ -73,7 +73,7 @@
 				
 				<div class="form-group">	
 					<div class="row">
-					<div class="col-xs-5">
+					<div class="col-xs-10 col-md-5">
 					<label for="name" class="col-sm-2 control-label"></label>
 				 		<div class="input-group input-group-lg">
 							<input type="text" class="form-control" id="name" placeholder="Username" value="">
@@ -82,7 +82,7 @@
 					</div>	
 					
 				
-					<div class="col-xs-5">
+					<div class="col-xs-10 col-md-5">
 					<label for="email" class="col-sm-2 control-label"></label>
 				 		<div class="input-group input-group-lg">
 							<input type="email" class="form-control" id="email" placeholder="Email" value="">
@@ -96,7 +96,7 @@
 
 				<div class="form-group">
 					<div class="row">	
-						<div class="col-xs-5">
+						<div class="col-xs-10 col-md-5">
 							<label for="psw" class="col-sm-2 control-label"></label>
 				 				<div class="input-group input-group-lg" >
 									<input type="password" class="form-control" id="psw" placeholder="Password" value="">
@@ -104,7 +104,7 @@
 								</div>
 						</div>
 
-						<div class="col-xs-5">
+						<div class="col-xs-10 col-md-5">
 							<label for="psw" class="col-sm-2 control-label"></label>
 				 				<div class="input-group input-group-lg" >
 									<input type="password" class="form-control" id="psw" placeholder="Retype Password" value="">
@@ -120,7 +120,7 @@
 
  			<div class="form-group">
  				<div class="row">
-        		<div  class="col-xs-5" >
+        		<div  class="col-xs-10 col-md-5" >
                 	<label class="col-sm-2 control-label"></label>
         			<select class="selectpicker" data-dropup-auto="false" data-width= "300px" multiple title="Gender">
   						<option > Male</option>
@@ -131,7 +131,7 @@
 				
 
 
-        		<div  class="col-sm-5" >
+        		<div  class="col-xs-10 col-md-5" >
                 	<label class="col-sm-2 control-label"></label>
         			<select class="selectpicker" data-dropup-auto="false" data-width= "300px" multiple title="Standard">
   						<option>10th pass</option>
@@ -144,7 +144,7 @@
     		<br>
     		<div class="form-group">
  				<div class="row">
-        		<div  class="col-xs-5" >
+        		<div  class="col-xs-10 col-md-5">
                 	<label class="col-sm-2 control-label"></label>
         			<select class="selectpicker" data-dropup-auto="false" data-width= "300px" multiple title="Select Course">
   						<option >JEE MAINS</option>
